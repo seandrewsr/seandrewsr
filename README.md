@@ -1,4 +1,6 @@
 ## Random Stuff
+- [Twilio - SendingVoiceMessage](Twilio/SendingVoiceMessage.pdf)
+- [Twilio - RespondingToVoiceMessage](Twilio/RespondingToVoiceMessage.pdf)
 - [Entity Framework and the SQL table structure](Entity%20Framework%20and%20the%20SQL%20table%20structure.pdf)
 - [GetURLParameters](GetURLParameters.pdf)
 - [IsolationLevelsInSQL](IsolationLevelsInSQL.pdf)

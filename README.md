@@ -1,4 +1,6 @@
 ## Random Stuff
+- [Twilio - SendingSMSMessage](https://github.com/seandrewsr/code/blob/main/Twilio/SendingSMSMessage.pdf)
+- [Twilio - RespondingToSMSMessage](https://github.com/seandrewsr/code/blob/main/Twilio/RespondingToSMSMessage.pdf)
 - [Twilio - SendingVoiceMessage](https://github.com/seandrewsr/code/blob/main/Twilio/SendingVoiceMessage.pdf)
 - [Twilio - RespondingToVoiceMessage](https://github.com/seandrewsr/code/blob/main/Twilio/RespondingToVoiceMessage.pdf)
 - [Entity Framework and the SQL table structure](https://github.com/seandrewsr/code/blob/main/Entity%20Framework%20and%20the%20SQL%20table%20structure.pdf)

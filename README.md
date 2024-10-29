@@ -1,4 +1,6 @@
 ## Random Stuff
+- [Create Custom MVC API](https://github.com/seandrewsr/code/blob/main/Creating%20a%20Custom%20MVC%20API%20for%20Managing%20Patient%20Prescriptions%20with%20Twilio%20Integration.pdf)
+- [Securing SQL Table Data](https://github.com/seandrewsr/code/blob/main/SecuringSQLTableData.pdf)
 - [Twilio - SendingSMSMessage](https://github.com/seandrewsr/code/blob/main/Twilio/SendingSMSMessage.pdf)
 - [Twilio - RespondingToSMSMessage](https://github.com/seandrewsr/code/blob/main/Twilio/RespondingToSMSMessage.pdf)
 - [Twilio - SendingVoiceMessage](https://github.com/seandrewsr/code/blob/main/Twilio/SendingVoiceMessage.pdf)

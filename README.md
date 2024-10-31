@@ -1,4 +1,4 @@
-## Random Stuff
+## Bits and Pieces
 - [Securing REST API with JWT Auth](https://github.com/seandrewsr/code/blob/main/SecuringRESTAPIJWTAuthAES-EncryptedKeys.pdf)
 - [Passing array to Stored Procedure from C#](https://github.com/seandrewsr/code/blob/main/PassingArrayToSP_XML.pdf)
 - [Create Custom MVC API](https://github.com/seandrewsr/code/blob/main/Creating%20a%20Custom%20MVC%20API%20for%20Managing%20Patient%20Prescriptions%20with%20Twilio%20Integration.pdf)

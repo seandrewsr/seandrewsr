@@ -9,6 +9,7 @@
 - [Twilio - SendingVoiceMessage](https://github.com/seandrewsr/code/blob/main/Twilio/SendingVoiceMessage.pdf)
 - [Twilio - RespondingToVoiceMessage](https://github.com/seandrewsr/code/blob/main/Twilio/RespondingToVoiceMessage.pdf)
 - [Entity Framework and the SQL table structure](https://github.com/seandrewsr/code/blob/main/Entity%20Framework%20and%20the%20SQL%20table%20structure.pdf)
+- [Defining and using a class](https://github.com/seandrewsr/code/blob/main/DefiningAndUsingClasses.pdf)
 - [GetURLParameters](https://github.com/seandrewsr/code/blob/main/GetURLParameters.pdf)
 - [IsolationLevelsInSQL](https://github.com/seandrewsr/code/blob/main/IsolationLevelsInSQL.pdf)
 - [List-KeyValuePair-TKey-TValue](https://github.com/seandrewsr/code/blob/main/List-KeyValuePair-TKey-TValue.pdf)

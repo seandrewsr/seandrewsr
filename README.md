@@ -25,6 +25,11 @@
 - [SQL_ACID](https://github.com/seandrewsr/code/blob/main/SQL_ACID.pdf)
 - [TSQL-Update a column based on the value of a TSQL variable](https://github.com/seandrewsr/code/blob/main/TSQL-Update%20a%20column%20based%20on%20the%20value%20of%20a%20TSQL%20variable.pdf)
 
+<br><br>
+I will be updating the existing older code to enhance its readability by incorporating expanded descriptions. Additionally, I plan to add new content to the repository as time allows.
+<br><br>
+
+
 <!--
 **seandrewsr/seandrewsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

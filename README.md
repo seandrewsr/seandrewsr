@@ -11,6 +11,7 @@
 - [Twilio - SendingVoiceMessage](https://github.com/seandrewsr/code/blob/main/Twilio/SendingVoiceMessage.pdf)
 - [Twilio - RespondingToVoiceMessage](https://github.com/seandrewsr/code/blob/main/Twilio/RespondingToVoiceMessage.pdf)
 - [Entity Framework and the SQL table structure](https://github.com/seandrewsr/code/blob/main/Entity%20Framework%20and%20the%20SQL%20table%20structure.pdf)
+- [SQLDataClient - Entity Framework: A Comparison](https://github.com/seandrewsr/code/blob/main/SQLDataClient_EntityFramework.pdf)
 - [Defining and using a class](https://github.com/seandrewsr/code/blob/main/DefiningAndUsingClasses.pdf)
 - [Using SQL Cross Apply](https://github.com/seandrewsr/sql/blob/main/UsingSQLCrossApply.pdf)
 - [Using SQL Cross Apply With Nested JSON](https://github.com/seandrewsr/sql/blob/main/UsingSQLCrossApplyWithNestedJSON.pdf)

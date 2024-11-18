@@ -3,6 +3,7 @@
 - [Securing REST API with JWT Auth](https://github.com/seandrewsr/code/blob/main/SecuringRESTAPIJWTAuthAES-EncryptedKeys.pdf)
 - [Passing array to Stored Procedure from C#](https://github.com/seandrewsr/code/blob/main/PassingArrayToSP_XML.pdf)
 - [Create Custom MVC API](https://github.com/seandrewsr/code/blob/main/Creating%20a%20Custom%20MVC%20API%20for%20Managing%20Patient%20Prescriptions%20with%20Twilio%20Integration.pdf)
+- [SQL Admin Scripts: A Practical Toolkit for Managing Servers and Databases](https://github.com/seandrewsr/sql/blob/main/PracticalAdminSQLCodeExamples.pdf)
 - [Practical Random SQL Code Examples](https://github.com/seandrewsr/sql/blob/main/PracticalRandomSQLCodeExamples.pdf)
 - [Time Zone-Sensitive Business Engagement Logic for Business Hour Validation](https://github.com/seandrewsr/sql/blob/main/TimeZone-SensitiveEngagementValidation.pdf)
 - [Securing SQL Table Data](https://github.com/seandrewsr/code/blob/main/SecuringSQLTableData.pdf)

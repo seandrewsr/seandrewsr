@@ -1,4 +1,5 @@
 ## Bits and Pieces
+- [Asynchronous Data Retrieval with SQL Stored Procedures in C#](https://github.com/seandrewsr/code/blob/main/AsyncSQLDataRetrieval.pdf)
 - [Leveraging SQL JSON Results](https://github.com/seandrewsr/code/blob/main/WorkingWithSQLJSONResults.pdf)
 - [Securing REST API with JWT Auth](https://github.com/seandrewsr/code/blob/main/SecuringRESTAPIJWTAuthAES-EncryptedKeys.pdf)
 - [Passing array to Stored Procedure from C#](https://github.com/seandrewsr/code/blob/main/PassingArrayToSP_XML.pdf)

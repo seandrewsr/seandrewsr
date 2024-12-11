@@ -26,7 +26,7 @@
 - [RedirectingActionToController](https://github.com/seandrewsr/code/blob/main/RedirectingActionToController.pdf)
 - [ReturnResultAsJSON](https://github.com/seandrewsr/code/blob/main/ReturnResultAsJSON.pdf)
 - [SelectSwitchPatternMatching](https://github.com/seandrewsr/code/blob/main/SelectSwitchPatternMatching.pdf)
-- [Specify_Method_Using_Dictionary_Object](https://github.com/seandrewsr/code/blob/main/Specify%20Method%20Using%20Dictionary%20Object.pdf)
+- [Specify_Method_Using_Dictionary_Object](https://github.com/seandrewsr/code/blob/main/Specify_Method_Using_Dictionary_Object.pdf)
 - [SQL_ACID](https://github.com/seandrewsr/code/blob/main/SQL_ACID.pdf)
 - [TSQL-Update a column based on the value of a TSQL variable](https://github.com/seandrewsr/code/blob/main/TSQL-Update%20a%20column%20based%20on%20the%20value%20of%20a%20TSQL%20variable.pdf)
 
